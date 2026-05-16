@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1778911678207,
+    "name": "shrika",
+    "email": "shrikaj18@gmail.com",
+    "source": "LinkedIn",
+    "status": "Contacted"
+  },
+  {
+    "id": 1778911818110,
+    "name": "sneha",
+    "email": "sneha@gmail.com",
+    "source": "Referral",
+    "status": "Converted"
+  },
+  {
+    "id": 1778911969736,
+    "name": "preethi",
+    "email": "pri@gmail.com",
+    "source": "Email Campaign",
+    "status": "New"
+  }
+]

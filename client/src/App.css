@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #dbeafe, #f0f9ff);
+}
+
+.container {
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: #1e3a8a;
+  margin-bottom: 30px;
+}
+
+.dashboard {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.dash-card {
+  background: white;
+  padding: 20px;
+  width: 180px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.dash-card h2 {
+  color: #2563eb;
+  margin: 0;
+}
+
+form {
+  background: white;
+  width: 380px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+input,
+select {
+  width: 100%;
+  padding: 12px;
+  margin-top: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  margin-top: 15px;
+  padding: 12px 20px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+.lead-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.card {
+  background: white;
+  width: 260px;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.status {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  color: white;
+  margin-top: 10px;
+}
+
+.New {
+  background: #3b82f6;
+}
+
+.Contacted {
+  background: #f59e0b;
+}
+
+.Converted {
+  background: #10b981;
+}
+
+.btn-group {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
