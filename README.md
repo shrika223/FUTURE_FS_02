@@ -31,11 +31,12 @@ cd server
 npx nodemon server
 
 ## 📸 Screenshots
+## Dashboard
+![CRUD](./dashboard.png)
 
 ### CRUD Operations
 ![Dashboard](./crud.png)
 
-## Dashboard
-![CRUD](./dashboard.png)
+
 
 
