@@ -4,7 +4,7 @@ A modern Mini CRM Dashboard built using React.js, Node.js, and Express.js with f
 
 
 ## 🚀 Live Demo
-future-fs-02-beryl.vercel.app
+https://future-fs-02-beryl.vercel.app/
 
 ## 🚀 Features
 - Add Leads
