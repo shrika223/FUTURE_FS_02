@@ -30,3 +30,12 @@ npm start
 cd server
 npx nodemon server
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./crud.png)
+
+### CRUD Operations
+![CRUD](./dashboard.png)
+
+
