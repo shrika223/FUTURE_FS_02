@@ -32,10 +32,10 @@ npx nodemon server
 
 ## 📸 Screenshots
 
-### Dashboard
+### CRUD Operations
 ![Dashboard](./crud.png)
 
-### CRUD Operations
+## Dashboard
 ![CRUD](./dashboard.png)
 
 
