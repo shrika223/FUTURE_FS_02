@@ -2,6 +2,10 @@
 
 A modern Mini CRM Dashboard built using React.js, Node.js, and Express.js with full CRUD functionality.
 
+
+## 🚀 Live Demo
+future-fs-02-beryl.vercel.app
+
 ## 🚀 Features
 - Add Leads
 - Edit Leads
@@ -24,10 +28,5 @@ npm start
 ## ▶ Run Backend
 
 cd server
-npx nodemon server.js
+npx nodemon server
 
-## 📸 Screenshots
-Project includes:
-- Dashboard UI
-- CRUD Operations
-- Lead Management
